@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/*
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/libraries
+*.iml
+
+# Build output
+/out/
+*.class
+
+# OS-specific
+.DS_Store
+
+# Logs
+*.log
+APDescription.txt
+MTPs-Main-Container.txt
